@@ -9,7 +9,7 @@ https://nbviewer.org/github/rgizsilva/Analise_dados_ecommerce/blob/main/Analise-
 
 -----
 
-Projeto de análise de dados completo utilizando algumas ferramentas como Pandas, Power Bi e algorítimos de Machine Learning.
+Projeto de análise de dados completo utilizando algumas ferramentas como MySQL, Pandas, Power Bi e algorítimos de Machine Learning.
 O objetivo do projeto foi mostrar como usar ao máximo a ciência de dados para analisar, resolver e tirar algumas visões de negócio para uma loja de E-commerce
 
 
