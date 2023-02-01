@@ -13,10 +13,10 @@ Projeto de análise de dados completo utilizando algumas ferramentas como MySQL,
 O objetivo do projeto foi mostrar como usar ao máximo a ciência de dados para analisar, resolver e tirar algumas visões de negócio para uma loja de E-commerce
 
 
-*- Foi usado como ferramenta:* **Jupyter Notebook**,**Microsoft PowerBi**.
+*- Foram usadadas como ferramentas:* **Jupyter Notebook**,**Microsoft PowerBi**.
 
 *- Linguagem:* **Python 3.10.0**
 
-*- Bibliotecas:* **Pandas**, **Matplotlib**,**Seaborn**,**Numpy**,**Sckit-Learning**,**WordCloud**
+*- Bibliotecas:* **Pandas**, **Matplotlib**,**Seaborn**,**Numpy**,**Scikit-Learning**,**WordCloud**
 
 [![](https://img.shields.io/badge/Linkedin-Reginaldo-blue )](https://www.linkedin.com/in/rgiz/)
